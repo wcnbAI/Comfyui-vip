@@ -1,0 +1,10 @@
+config.json
+api_keys.yaml
+*.env
+__pycache__/
+.trae/
+!.trae/rules/
+!.trae/rules/11.md
+Concurrent_Edit_history.txt
+Concurrent_Batch_history.txt
+shaobkj_async_history.json
